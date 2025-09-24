@@ -1,5 +1,5 @@
 # SalesStore_Project_Oluwatosin
-SalesStore Github documentation
+# SalesStore Github documentation
 ## Introduction
 This project involves the analysis of products sold and their corresponding shipping data.
 The dataset contains details about:
