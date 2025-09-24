@@ -10,6 +10,8 @@ The dataset contains details about:
 * Shipping methods,
 * Regions, and
 * Profit generated.
+
+  
   The goal of the analysis is to uncover patterns in :
 * Sales performance,
 * Shipping efficiency and
